@@ -17,5 +17,5 @@ with Figma.
 
 ## Course Resources
 
-Course resources, such as the schedule, syllabus, and other materials, are available at: [https://designingtheweb.org](designingtheweb.org). The
+Course resources, such as the schedule, syllabus, and other materials, are available at: [designingtheweb.org](https://designingtheweb.org). The
 instructor encourages students to bookmark this site.
