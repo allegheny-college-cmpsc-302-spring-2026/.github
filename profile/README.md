@@ -14,3 +14,8 @@ with Figma.
 3. Design front-end user experiences using accepted web design patterns, methods, and information structures.
 4. Identify and use strategies of successful visual rhetoric for the web.
 5. Compare and select web technologies such as static site generators or frameworks as appropriate candidates for building web sites.
+
+## Course Resources
+
+Course resources, such as the schedule, syllabus, and other materials, are available at: [https://designingtheweb.org](designingtheweb.org). The
+instructor encourages students to bookmark this site.
